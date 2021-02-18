@@ -1,0 +1,13 @@
+img {
+  border-radius: 50%;
+  align-items: center;
+  display: block;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  height: 10%;
+}
+.jumbotron {
+  background-color: white !important;
+}
